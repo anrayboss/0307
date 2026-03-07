@@ -1,0 +1,4 @@
+# 排除所有文件
+*
+!.gitignore
+!index.html
